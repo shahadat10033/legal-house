@@ -2167,18 +2167,42 @@ progress {
   }
 }
 @media (max-width: 991.98px) {
+  banner-image h1 {
+    display: none;
+  }
+  .banner-image p {
+    display: none;
+  }
+  .banner-image input {
+    font-size: 12px;
+  }
   .table-responsive-lg {
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
   }
 }
 @media (max-width: 1199.98px) {
+  banner-image h1 {
+    display: none;
+  }
+  .banner-image p {
+    display: none;
+  }
+  .banner-image input {
+    font-size: 12px;
+  }
   .table-responsive-xl {
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
   }
 }
 @media (max-width: 1399.98px) {
+  .banner-image p {
+    display: none;
+  }
+  .banner-image input {
+    font-size: 12px;
+  }
   .table-responsive-xxl {
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
