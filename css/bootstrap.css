@@ -4768,7 +4768,7 @@ fieldset:disabled .btn {
 }
 
 .accordion-item {
-  background-color: #fff;
+  background: #f3f3f3;
   border: 1px solid rgba(0, 0, 0, 0.125);
 }
 .accordion-item:first-of-type {
@@ -4801,6 +4801,8 @@ fieldset:disabled .btn {
 
 .accordion-flush .accordion-collapse {
   border-width: 0;
+  background: #f3f3f3;
+  border-radius: 8px;
 }
 .accordion-flush .accordion-item {
   border-right: 0;
