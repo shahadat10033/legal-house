@@ -7846,6 +7846,8 @@ fieldset:disabled .btn {
 
 .rounded-circle {
   border-radius: 50% !important;
+  width: 70px;
+  height: 70px;
 }
 
 .rounded-pill {
